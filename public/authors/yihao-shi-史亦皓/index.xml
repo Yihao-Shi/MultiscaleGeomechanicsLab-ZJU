@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yihao Shi 史亦皓 | Multiscale Geomechanics Lab</title>
+    <link>https://example.com/authors/yihao-shi-%E5%8F%B2%E4%BA%A6%E7%9A%93/</link>
+      <atom:link href="https://example.com/authors/yihao-shi-%E5%8F%B2%E4%BA%A6%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yihao Shi 史亦皓</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/authors/yihao-shi-%E5%8F%B2%E4%BA%A6%E7%9A%93/avatar_hue0c31f5a221a4dac786736a317c9bf63_805709_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yihao Shi 史亦皓</title>
+      <link>https://example.com/authors/yihao-shi-%E5%8F%B2%E4%BA%A6%E7%9A%93/</link>
+    </image>
+    
+  </channel>
+</rss>

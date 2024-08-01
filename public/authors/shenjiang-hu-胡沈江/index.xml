@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shenjiang Hu 胡沈江 | Multiscale Geomechanics Lab</title>
+    <link>https://example.com/authors/shenjiang-hu-%E8%83%A1%E6%B2%88%E6%B1%9F/</link>
+      <atom:link href="https://example.com/authors/shenjiang-hu-%E8%83%A1%E6%B2%88%E6%B1%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shenjiang Hu 胡沈江</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Shenjiang Hu 胡沈江</title>
+      <link>https://example.com/authors/shenjiang-hu-%E8%83%A1%E6%B2%88%E6%B1%9F/</link>
+    </image>
+    
+  </channel>
+</rss>

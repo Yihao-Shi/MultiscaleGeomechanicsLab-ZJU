@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuanhao Guo 郭远灏 | Multiscale Geomechanics Lab</title>
+    <link>https://example.com/authors/yuanhao-guo-%E9%83%AD%E8%BF%9C%E7%81%8F/</link>
+      <atom:link href="https://example.com/authors/yuanhao-guo-%E9%83%AD%E8%BF%9C%E7%81%8F/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuanhao Guo 郭远灏</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/authors/yuanhao-guo-%E9%83%AD%E8%BF%9C%E7%81%8F/avatar_hu6b7664f523075193f9f11d79c1c9dcfa_65335_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yuanhao Guo 郭远灏</title>
+      <link>https://example.com/authors/yuanhao-guo-%E9%83%AD%E8%BF%9C%E7%81%8F/</link>
+    </image>
+    
+  </channel>
+</rss>

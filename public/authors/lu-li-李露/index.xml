@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lu Li 李露 | Multiscale Geomechanics Lab</title>
+    <link>https://example.com/authors/lu-li-%E6%9D%8E%E9%9C%B2/</link>
+      <atom:link href="https://example.com/authors/lu-li-%E6%9D%8E%E9%9C%B2/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lu Li 李露</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/authors/lu-li-%E6%9D%8E%E9%9C%B2/avatar_huc89d99b496b96653fa2057353e007d7b_72273_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Lu Li 李露</title>
+      <link>https://example.com/authors/lu-li-%E6%9D%8E%E9%9C%B2/</link>
+    </image>
+    
+  </channel>
+</rss>

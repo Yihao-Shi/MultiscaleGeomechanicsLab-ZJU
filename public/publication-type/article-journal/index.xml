@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Multiscale Geomechanics Lab</title>
+    <link>https://example.com/publication-type/article-journal/</link>
+      <atom:link href="https://example.com/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Article-Journal</title>
+      <link>https://example.com/publication-type/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>A shear-transformation-zone model for time-dependent behaviours of clay</title>
+      <link>https://example.com/publication/guo-stz-nag/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/guo-stz-nag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A thermodynamics-informed neural network for elastoplastic constitutive modeling of granular materials</title>
+      <link>https://example.com/publication/su-tinn-cmame/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/su-tinn-cmame/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

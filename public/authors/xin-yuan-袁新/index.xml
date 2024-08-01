@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Yuan 袁新 | Multiscale Geomechanics Lab</title>
+    <link>https://example.com/authors/xin-yuan-%E8%A2%81%E6%96%B0/</link>
+      <atom:link href="https://example.com/authors/xin-yuan-%E8%A2%81%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Yuan 袁新</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/authors/xin-yuan-%E8%A2%81%E6%96%B0/avatar_huaafd469bfad1506251ed0cb7b1215c1a_297022_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xin Yuan 袁新</title>
+      <link>https://example.com/authors/xin-yuan-%E8%A2%81%E6%96%B0/</link>
+    </image>
+    
+  </channel>
+</rss>

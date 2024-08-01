@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhangbin Xu 徐章彬 | Multiscale Geomechanics Lab</title>
+    <link>https://example.com/authors/zhangbin-xu-%E5%BE%90%E7%AB%A0%E5%BD%AC/</link>
+      <atom:link href="https://example.com/authors/zhangbin-xu-%E5%BE%90%E7%AB%A0%E5%BD%AC/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhangbin Xu 徐章彬</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/authors/zhangbin-xu-%E5%BE%90%E7%AB%A0%E5%BD%AC/avatar_hu6b7664f523075193f9f11d79c1c9dcfa_282850_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zhangbin Xu 徐章彬</title>
+      <link>https://example.com/authors/zhangbin-xu-%E5%BE%90%E7%AB%A0%E5%BD%AC/</link>
+    </image>
+    
+  </channel>
+</rss>
