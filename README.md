@@ -1,4 +1,4 @@
-# [Multiscale Geomechanics Lab](https://yihao-shi.github.io/MultiscaleGeomechanicLab-ZJU/)
+# Multiscale Geomechanics Lab
 
 This repository is the website of [__Multiscale Geomechanics Lab__](https://person.zju.edu.cn/nguo) at College of Civl Engineering and Architecture, Zhejiang University. (in progress)
 
