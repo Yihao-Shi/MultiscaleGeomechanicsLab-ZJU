@@ -47,7 +47,7 @@ sections:
     content:
       title: About Us
       text: |
-        The Multiscale Geomechanics Lab at Zhejiang University strives to 
+        The Multiscale Geomechanics Lab at Zhejiang University strives to advance computational geomechanics and materials mechanics through innovative numerical methods and multiscale multiphysics modeling. We develop novel approaches for simulating complex phenomena in geotechnical engineering and porous media flows.
         {{% cta cta_link="./people/" cta_text="Current Members →" %}}
     design:
       columns: '1'
