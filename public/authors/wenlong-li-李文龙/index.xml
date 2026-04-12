@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wenlong Li 李文龙 | Multiscale Geomechanics Lab</title>
-    <link>http://localhost:1313/authors/wenlong-li-%E6%9D%8E%E6%96%87%E9%BE%99/</link>
-      <atom:link href="http://localhost:1313/authors/wenlong-li-%E6%9D%8E%E6%96%87%E9%BE%99/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/authors/wenlong-li-%E6%9D%8E%E6%96%87%E9%BE%99/</link>
+      <atom:link href="http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/authors/wenlong-li-%E6%9D%8E%E6%96%87%E9%BE%99/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenlong Li 李文龙</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_ec961d71fd4b62b8.png</url>
+      <url>http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/media/icon_hu_ec961d71fd4b62b8.png</url>
       <title>Wenlong Li 李文龙</title>
-      <link>http://localhost:1313/authors/wenlong-li-%E6%9D%8E%E6%96%87%E9%BE%99/</link>
+      <link>http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/authors/wenlong-li-%E6%9D%8E%E6%96%87%E9%BE%99/</link>
     </image>
     
     <item>
       <title>A shear-transformation-zone model for time-dependent behaviours of clay</title>
-      <link>http://localhost:1313/publication/guo-stz-nag/</link>
+      <link>http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/publication/guo-stz-nag/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/guo-stz-nag/</guid>
+      <guid>http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/publication/guo-stz-nag/</guid>
       <description></description>
     </item>
     

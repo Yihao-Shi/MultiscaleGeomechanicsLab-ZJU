@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Multiscale Geomechanics Lab</title>
-    <link>http://localhost:1313/research/</link>
-      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/research/</link>
+      <atom:link href="http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_ec961d71fd4b62b8.png</url>
+      <url>http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/media/icon_hu_ec961d71fd4b62b8.png</url>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/research/</link>
     </image>
     
     <item>
       <title>Hierarchical multiscale modeling</title>
-      <link>http://localhost:1313/research/hierarchical-multiscale/head/</link>
+      <link>http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/research/hierarchical-multiscale/head/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/hierarchical-multiscale/head/</guid>
+      <guid>http://localhost:1313/MultiscaleGeomechanicsLab-ZJU/research/hierarchical-multiscale/head/</guid>
       <description></description>
     </item>
     
